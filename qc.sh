@@ -1,5 +1,5 @@
 #!/bin/bash
-#Dependencies: imgcat, normal linux build tools for c code
+#Dependencies: imgcat, normal linux build tools for c code, qrencode
 #Create a QuickConnect Link for a Node
 #Usage: ./qc.sh USERNAME HIDDEN_SERVICE_DIR (not the full path)
 
